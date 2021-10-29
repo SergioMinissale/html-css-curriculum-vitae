@@ -1,3 +1,20 @@
+header{
+    background-color:GAINSBORO;
+}
+h1{
+    text-align: center;
+}
+
+
+
+
+
+hr{
+    color:orange;
+}
 h2{ 
     color:orange;
+}
+footer{
+    text-align: center;
 }
