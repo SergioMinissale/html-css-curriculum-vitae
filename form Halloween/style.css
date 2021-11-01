@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-image: url(https://us.123rf.com/450wm/karolinamadej/karolinamadej1806/karolinamadej180600165/102761762-halloween-concetto-di-sfondo-con-spaventose-lanterne-di-zucca-vettore-.jpg?ver=6);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+}
+header{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+hr{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+#scrittaFinale{
+    color: white;
+}
+
+
+footer{
+    text-align: center;
+}
